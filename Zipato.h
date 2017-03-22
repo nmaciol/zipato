@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h> 
 #include <WiFiClientSecure.h>
-#include <ESP8266HTTPClient.h>
+#include <ESP8266HTTPClient.h>      //version=1.1
 #include <Hash.h>
 
 #include "Arduino.h"
